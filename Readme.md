@@ -4,11 +4,15 @@
 
 ### Full Stack Web Developer | Computer Science Student | Freelancer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Express.js;Building+Modern+and+Scalable+Web+Applications;Always+Learning+and+Growing" alt="Typing SVG" />
+<p>
+Passionate about building modern web applications, backend systems, and solving real-world problems through technology.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=rajsingh96199-hue&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=rajsingh96199-hue&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -16,49 +20,31 @@
 
 ## 🚀 About Me
 
-I'm a passionate and dedicated web developer who enjoys transforming ideas into functional, user-friendly, and visually appealing web applications.
+## 🚀 About Me
 
-Currently pursuing a Bachelor's degree in Computer Science while actively building projects and expanding my knowledge in modern web technologies. I enjoy solving real-world problems through code and continuously improving my development skills.
+I'm a passionate Full Stack Web Developer and Computer Science student with experience in building responsive websites and web applications. I enjoy working across the entire development lifecycle, from creating intuitive user interfaces to developing backend systems and databases. Currently, I'm focused on strengthening my skills in modern web technologies, backend architecture, and scalable application development while continuously working on real-world projects.
 
-### 👨‍💻 What I Do
-
-* Build responsive and modern websites
-* Develop full-stack web applications
-* Create clean and user-friendly interfaces
-* Design scalable backend systems
-* Work with databases and APIs
-* Learn and implement new technologies
-
-### 🎯 Current Focus
-
-* MERN Stack Development
-* Backend Development
-* System Design Fundamentals
-* API Development
-* PostgreSQL & Database Optimization
-* TypeScript
-* Next.js
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-### Backend Development
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database Technologies
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
 ### Tools & Platforms
@@ -67,15 +53,82 @@ Currently pursuing a Bachelor's degree in Computer Science while actively buildi
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
 </p>
 
-### Currently Learning
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=typescript,docker,mongodb" />
-</p>
+## 💼 Experience
+
+### Web Developer Intern — Webrandustry
+
+- Developed and customized websites for clients
+- Built responsive and user-friendly interfaces
+- Worked with backend integrations and databases
+- Collaborated with team members on real-world projects
+- Improved website performance and UI consistency
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
+
+### 🏥 Prime Clinic
+
+Healthcare appointment booking platform.
+
+**Tech Stack**
+- React
+- Node.js
+- Express.js
+- PostgreSQL
+
+**Features**
+- Appointment Booking
+- Admin Dashboard
+- Backend API Integration
+- Database Management
+
+---
+
+### 💡 Idea Incubator
+
+A platform for sharing and discovering startup ideas.
+
+**Tech Stack**
+- React
+- Node.js
+- Express.js
+- MySQL
+
+**Features**
+- Idea Submission
+- User Interaction
+- Responsive Design
+- Database Integration
+
+---
+
+### 📄 Resume Analyzer
+
+AI-powered resume analysis platform.
+
+**Features**
+- Resume Evaluation
+- Improvement Suggestions
+- Modern User Interface
+
+---
+
+### 🏗️ Construction Website
+
+Professional business website built with modern design principles.
+
+**Features**
+- Responsive Design
+- Service Showcase
+- Contact Integration
+- Fast Performance
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -95,130 +148,46 @@ Currently pursuing a Bachelor's degree in Computer Science while actively buildi
 
 ---
 
-## 💼 Professional Experience
-
-### Web Developer Intern
-
-**Webrandustry**
-
-* Developed and customized WordPress websites
-* Worked on responsive web designs
-* Improved website UI and user experience
-* Assisted with database integration and backend tasks
-* Collaborated with team members on client projects
-* Learned industry-standard development practices
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 Prime Clinic
-
-A modern healthcare website designed to streamline appointment booking and patient interactions.
-
-**Tech Used**
-
-* HTML
-* CSS
-* JavaScript
-* Node.js
-* Express.js
-* PostgreSQL
-
-**Features**
-
-* Appointment booking
-* Responsive design
-* Backend integration
-* Database management
-
----
-
-### 💡 Idea Incubator
-
-A platform where users can share, discover, and discuss innovative startup ideas.
-
-**Tech Used**
-
-* React
-* Node.js
-* Express.js
-* MySQL
-
-**Features**
-
-* User interaction
-* Idea submission system
-* Database connectivity
-* Responsive UI
-
----
-
-### 🏗️ Construction Company Website
-
-A modern business website built to showcase company services and projects.
-
-**Features**
-
-* Responsive design
-* Modern UI
-* Service showcase
-* Contact forms
-
----
-
-### ☕ Cafe Website
-
-A visually appealing website designed for restaurants and cafes.
-
-**Features**
-
-* Attractive landing page
-* Mobile-friendly design
-* Modern user interface
-
----
-
-## 🌱 Learning Journey
-
-I strongly believe in continuous learning and self-improvement.
-
-Currently exploring:
-
-* Advanced React Patterns
-* Backend Architecture
-* API Security
-* Authentication Systems
-* Cloud Deployment
-* Docker Fundamentals
-* System Design
-* Artificial Intelligence & Machine Learning
-
----
-
-## 🏆 Goals for 2026
-
-* Build production-ready full-stack applications
-* Master backend development
-* Learn DevOps fundamentals
-* Contribute to open-source projects
-* Secure a software development role
-* Expand freelancing business
-* Strengthen problem-solving skills
-
----
-
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/rajsingh96199-hue&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajsingh96199-hue&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🌱 Currently Learning
+
+```javascript
+const raj = {
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  databases: ["PostgreSQL", "MySQL", "MongoDB"],
+  learning: [
+    "TypeScript",
+    "Docker",
+    "System Design",
+    "Backend Architecture"
+  ],
+  goal: "Become a Full Stack Engineer"
+};
+```
+
+## 🎯 2026 Goals
+
+- Build production-ready full stack applications
+- Master backend development
+- Learn Docker & DevOps fundamentals
+- Contribute to open source
+- Grow freelancing business
+- Improve DSA & problem-solving skills
+- Secure a Software Developer role
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
 
@@ -231,7 +200,7 @@ Currently exploring:
 </a>
 
 <a href="mailto:rajsingh96199@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -240,16 +209,16 @@ Currently exploring:
 
 ## 💭 Developer Philosophy
 
-> "Great software is built through consistency, curiosity, and continuous learning."
-
-I enjoy building meaningful digital experiences, solving challenging problems, and collaborating with others to create impactful solutions.
+> "Consistency, curiosity, and continuous learning are the keys to becoming a great developer."
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### ⭐ Thanks for visiting my profile!
 
-Thanks for visiting my profile 🚀
+If you like my work, consider starring my repositories.
+
+🚀 Happy Coding!
 
 </div>
