@@ -20,7 +20,7 @@ Passionate about building modern web applications, backend systems, and solving 
 
 ## 🚀 About Me
 
-## 🚀 About Me
+
 
 I'm a passionate Full Stack Web Developer and Computer Science student with experience in building responsive websites and web applications. I enjoy working across the entire development lifecycle, from creating intuitive user interfaces to developing backend systems and databases. Currently, I'm focused on strengthening my skills in modern web technologies, backend architecture, and scalable application development while continuously working on real-world projects.
 
